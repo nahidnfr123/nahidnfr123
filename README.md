@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nahid Ferdous.
 - 👀 I’m interested in Web Technologies.
-- 🌱 I’m currently learning NuxtJs, ReactJs.
+- 🌱 I’m currently learning NuxtJs and ReactJs.
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous240@gmail.com, 
 
