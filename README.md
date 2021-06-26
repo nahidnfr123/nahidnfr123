@@ -55,7 +55,7 @@
 - Pycharm.
 
 <br>
-
+<h2 align="center">Git Status</h2>
 
 [comment]: <> (![Nahid's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical&#41;)
 
