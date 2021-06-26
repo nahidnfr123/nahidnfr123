@@ -35,8 +35,8 @@
 <h3 align="left">Development skills:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start; align-content: center; align-items: center;"> 
     <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" style="max-height: 40px;"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
