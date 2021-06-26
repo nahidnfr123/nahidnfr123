@@ -34,9 +34,9 @@
 <h2 align="center">Skills</h2>
 <h3 align="left">Development skills:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start; align-content: center; align-items: center;"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" alt="html5" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" alt="css3" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" style="max-height: 40px;"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -60,21 +60,20 @@
 - Web Storm.
 - Pycharm.
 
-<br>
 <h2 align="center">Git Status</h2>
-
-[comment]: <> (![Nahid's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical&#41;)
 
 [comment]: <> ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
-<p align="center">&nbsp;
-<a href="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical" />
-</a>
-</p>
+[comment]: <> (![Nahid's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical&#41;)
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical" />
+</a>
+</p>
+
+<p align="center">&nbsp;
+<a href="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical" />
 </a>
 </p>
