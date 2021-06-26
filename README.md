@@ -1,4 +1,6 @@
-<h1 align="center" style="color: #718096;">
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=footer&text=Naid%20Ferdous&fontSize=90)
+
+<h1 align="center" style="color: #718096;" color="">
     👋 Hi there, I’m Nahid Ferdous.
 </h1>
 <div style="margin-bottom: 30px; color: dodgerblue;">
@@ -8,6 +10,7 @@
 </div>
 <hr style="margin-bottom: 30px; background-color: #4a5568">
 
+- ![#f03c15]
 - 🌱 I’m interested in Web Technologies.
 - 🌱 I have experience working on: PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS, Scss.
 - 🌱 I’m currently learning Python(Django).
