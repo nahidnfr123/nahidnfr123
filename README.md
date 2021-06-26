@@ -1,12 +1,12 @@
 <h1 align="center" style="color: deepskyblue;">
     👋 Hi there, I’m Nahid Ferdous.
 </h1>
-<hr style="margin-bottom: 30px; background-color: #4a5568">
 <div style="margin-bottom: 30px; color: dodgerblue;">
     <h3 align="center" style="line-height: 4px !important;">
         I am a Full-Stack Web Developer.
     </h3>
 </div>
+<hr style="margin-bottom: 30px; background-color: #4a5568">
 
 - 🌱 I’m interested in Web Technologies.
 - 🌱 I have experience working on: PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS, Scss.
