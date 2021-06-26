@@ -1,4 +1,4 @@
-##### 👋 Hi, I’m Nahid Ferdous.
+# 👋 Hi, I’m Nahid Ferdous.
 ### 👀 I’m interested in Web Technologies.
 -     🌱 I have experience working on: 
      PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS, Scss.
