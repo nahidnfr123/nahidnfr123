@@ -21,9 +21,6 @@
 
 [comment]: <> (<hr style="margin-bottom: 30px; background-color: #4a5568">)
 
-- [🌱 I’m interested in Web Technologies](#🌱I’minterestedinWebTechnologies.)
-- [🌱 I’m interested in Web Technologies](#🌱I’minterestedinWebTechnologies.)
-
 - 🌱 I’m interested in Web Technologies.
 - 🌱 I’m currently learning Python(Django).
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
@@ -32,17 +29,6 @@
 - Fun fact: I like to draw in my leisure time ( https://nahidferdous.com/art_gallery ).
 
 - 🌱 I have experience working on: PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS, Scss.
-
-## Types
-
-- [wave](#wave)
-- [egg](#egg)
-- [shark](#shark)
-- [slice](#slice)
-- [rect](#rect)
-- [rounded](#rounded)
-- [cylinder](#cylinder)
-- [waving](#waving)
 
 <br>
 <h2 align="center">Skills</h2>
@@ -56,7 +42,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/dj.svg" alt="django" width="40" height="40"/> 
 </p>
 <h3 align="left">Design skills:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start; align-content: center; align-items: center;">
@@ -82,7 +67,7 @@
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />
 </a>
 </p>
 
