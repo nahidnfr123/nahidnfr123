@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=260&section=header&text=Dev&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nahid%20Ferdous&fontSize=80&animation=fadeIn&fontAlignY=38&desc=I%20am%20a%20Full-Stack%20Web%20Developer.&descAlignY=51&descAlign=62)
 <h1 align="center" style="color: #718096;" color="">
     👋 Hi there, I’m Nahid Ferdous.
 </h1>
