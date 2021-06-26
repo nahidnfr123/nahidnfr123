@@ -23,12 +23,12 @@
 
 - 🌱 I’m interested in Web Technologies.
 - 🌱 I’m currently learning Python(Django).
+- 🌱 I have experience working on: PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS, Scss.
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous250@gmail.com.
 - 📫 Portfolio Website: https://www.nahidferdous.com.
 - Fun fact: I like to draw in my leisure time ( https://nahidferdous.com/art_gallery ).
 
-- 🌱 I have experience working on: PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS, Scss.
 
 <br>
 <h2 align="center">Skills</h2>
@@ -42,11 +42,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/> 
+    <img src="https://nuxtjs.org/logos/nuxt.svg" alt="vue" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/> 
      
 </p>
 <h3 align="left">Design skills:</h3>
