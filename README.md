@@ -54,11 +54,21 @@
 - Web Storm.
 - Pycharm.
 
-
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical)
 
-<p align="center" style="margin-top: 40px">&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid123&show_icons=true&locale=en&layout=compact" alt="nahid123" />
+[comment]: <> (![Nahid's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical&#41;)
+
+[comment]: <> ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+
+<p align="center">&nbsp;
+<a href="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical" />
+</a>
 </p>
