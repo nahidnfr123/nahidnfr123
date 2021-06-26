@@ -1,4 +1,4 @@
-<h1 align="center" style="color: deepskyblue;">
+<h1 align="center" style="color: #718096;">
     👋 Hi there, I’m Nahid Ferdous.
 </h1>
 <div style="margin-bottom: 30px; color: dodgerblue;">
