@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=footer&text=Naid%20Ferdous&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=260&section=header&text=Dev&fontSize=90)
 
 <h1 align="center" style="color: #718096;" color="">
     👋 Hi there, I’m Nahid Ferdous.
