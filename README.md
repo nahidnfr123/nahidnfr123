@@ -1,7 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nahid%20Ferdous&fontSize=80&animation=fadeIn&fontAlignY=38&desc=A%20Passionate%20Full-Stack%20Web%20Developer.&descAlignY=51&descAlign=62)
 <h1 align="center">
-    👋 Hey there, I’m Nahid Ferdous.
+    👋 Hey there, I’m Nahid Ferdous. 
 </h1>
+
+<p align="center">
+    <a href="https://komarev.com/ghpvc/?username=nahidnfr123&color=ff69b4&style=flat&label=VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=nahidnfr123&color=ff69b4&style=flat&label=VIEWS" alt="License">
+    </a>
+</p>
 
 [comment]: <> (<div style="margin-bottom: 30px; color: dodgerblue;">)
 
