@@ -26,8 +26,8 @@
 - 🌱 I have experience working on: PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS, Scss, CSS, HTML.
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous240@gmail.com.
-- 📫 Portfolio Website: https://www.nahidferdous.com.
-- Fun fact: I like to draw in my leisure time ( https://nahidferdous.com/art_gallery ).
+- 📫 Personal Portfolio Website: https://www.nahidferdous.com.
+- Fun fact: I like to draw in my leisure time. Vist my ART Gallery: https://nahidferdous.com/art_gallery.
 
 
 <br>
