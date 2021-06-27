@@ -27,7 +27,7 @@
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous240@gmail.com.
 - 📫 Personal Portfolio Website: [nahidferdous.com](https://www.nahidferdous.com "Nahid Ferdous").
-- Fun fact: I like to draw in my leisure time. Visit my [Art Gallery](https://nahidferdous.com/art_gallery "Nahid's ART Gallery")
+- Fun fact: I like to draw in my leisure time. Visit my [Art Gallery](https://nahidferdous.com/art_gallery "Nahid's ART Gallery").
 
 <br>
 <h2 align="center">Skills</h2>
@@ -66,14 +66,38 @@
 
 [comment]: <> (|linux| Web Development|)
 
-<h3 align="left">Tools:</h3>
+[comment]: <> (<h3 align="left">Tools:</h3>)
 
-- Github.
-- Linux (Ubuntu, Manjaro).
-- Cpanel.
-- Php Storm.
-- Web Storm.
-- Pycharm.
+
+
+<table>
+  <tr>
+    <th>Tools : </th>
+    <th>knowledge : </th>
+  </tr>
+  <tr>
+    <td>
+
+    - Github
+    - Linux (Ubuntu, Manjaro).
+    - Cpanel.
+    - Php Storm.
+    - Web Storm.
+    - Pycharm.
+
+</td>
+    <td>
+
+    - Web Design
+    - Web Development
+    - Database Design
+    - UI/UX Design
+    - Agile Development
+    - APIs
+
+</td>
+  </tr>
+</table>
 
 <h2 align="center">Git Status</h2>
 
@@ -87,7 +111,6 @@
 </a>
 </p>
 
-<br>
 
 <p align="center">&nbsp;
 <a href="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical">
