@@ -99,6 +99,7 @@
   </tr>
 </table>
 
+<br>
 <h2 align="center">Git Status</h2>
 
 [comment]: <> ([![Top Langs]&#50;https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical&#41;]&#50;https://github.com/anuraghazra/github-readme-stats&#41;)
