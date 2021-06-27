@@ -31,39 +31,27 @@
 
 [comment]: <> (![myimg]&#40;https://cdn.worldvectorlogo.com/logos/html5.svg&#41;)
 
+![alt text](https://cdn.worldvectorlogo.com/logos/html5.svg ''){: height="50px" width="50px" style="float:left; padding-bottom:1000px" }
+
 <br>
 <h2 align="center">Skills</h2>
 <h3 align="center">Development skills:</h3>
 <p align="center">
-<img align="middle" hspace="10" vspace="0" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="vue" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="vue" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://nuxtjs.org/logos/nuxt.svg" alt="vue" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
-
-<img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="0" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://nuxtjs.org/logos/nuxt.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
 </p>
 <br>
 <h3 align="center">Design skills:</h3>
