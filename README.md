@@ -69,8 +69,7 @@
 [comment]: <> (<h3 align="left">Tools:</h3>)
 
 
-
-<table>
+<table align="center">
   <tr>
     <th>Tools : </th>
     <th>knowledge : </th>
@@ -84,6 +83,7 @@
     - Php Storm.
     - Web Storm.
     - Pycharm.
+    - VsCode.
 
 </td>
     <td>
