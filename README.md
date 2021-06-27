@@ -48,7 +48,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/> 
-     
+
 </p>
 <h3 align="left">Design skills:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start; align-content: center; align-items: center;">
