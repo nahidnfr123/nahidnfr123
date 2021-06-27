@@ -31,8 +31,8 @@
 
 <br>
 <h2 align="center">Skills</h2>
-<h3 align="left">Development skills:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start; align-content: center; align-items: center;"> 
+<h3 align="center">Development skills:</h3>
+<p align="center"> 
     <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="50" height="50"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/> 
@@ -51,7 +51,7 @@
 
 </p>
 <h3 align="center">Design skills:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start; align-content: center; align-items: center;">
+<p align="center">
     <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="adobe-illustrator" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="adobe-xd" width="50" height="50"/> 
