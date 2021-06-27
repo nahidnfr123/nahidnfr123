@@ -31,7 +31,7 @@
 
 [comment]: <> (![myimg]&#40;https://cdn.worldvectorlogo.com/logos/html5.svg&#41;)
 
-![alt text](https://cdn.worldvectorlogo.com/logos/html5.svg ''){: height="50px" width="50px" style="float:left; padding-bottom:1000px" }
+[comment]: <> (![alt text]&#40;https://cdn.worldvectorlogo.com/logos/html5.svg ''&#41;{: height="50px" width="50px" style="float:left; padding-bottom:1000px" })
 
 <br>
 <h2 align="center">Skills</h2>
