@@ -26,7 +26,7 @@
 - 🌱 I have experience working on: PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS, Scss, CSS, HTML.
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous240@gmail.com.
-- 📫 Personal Portfolio Website: https://www.nahidferdous.com.
+- 📫 Personal Portfolio Website: [nahidferdous.com](https://www.nahidferdous.com "Nahid Ferdous").
 - Fun fact: I like to draw in my leisure time. Visit my [Art Gallery](https://nahidferdous.com/art_gallery "Nahid's ART Gallery")
 
 <br>
@@ -57,10 +57,19 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="adobe-xd" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="50" height="50"/> 
 </p>
+
+[comment]: <> (|Tools|Knowledge|)
+
+[comment]: <> (|:---|:---|)
+
+[comment]: <> (|Github| Web Design|)
+
+[comment]: <> (|linux| Web Development|)
+
 <h3 align="left">Tools:</h3>
 
 - Github.
-- linux.
+- Linux (Ubuntu, Manjaro).
 - Cpanel.
 - Php Storm.
 - Web Storm.
@@ -77,6 +86,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />
 </a>
 </p>
+
+<br>
 
 <p align="center">&nbsp;
 <a href="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical">
