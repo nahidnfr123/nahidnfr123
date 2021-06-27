@@ -64,6 +64,7 @@
     <img hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<br>
 <h3 align="center">Design skills:</h3>
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;
