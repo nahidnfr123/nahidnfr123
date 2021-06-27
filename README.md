@@ -29,6 +29,8 @@
 - 📫 Personal Portfolio Website: [nahidferdous.com](https://www.nahidferdous.com "Nahid Ferdous").
 - Fun fact: I like to draw in my leisure time. Visit my [Art Gallery](https://nahidferdous.com/art_gallery "Nahid's ART Gallery").
 
+![myimg](https://cdn.worldvectorlogo.com/logos/html5.svg){: height="75px" width="300px" style="float:left; padding-right:10px" }
+
 <br>
 <h2 align="center">Skills</h2>
 <h3 align="center">Development skills:</h3>
