@@ -27,8 +27,7 @@
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous240@gmail.com.
 - 📫 Personal Portfolio Website: https://www.nahidferdous.com.
-- Fun fact: I like to draw in my leisure time. Vist my ART Gallery: https://nahidferdous.com/art_gallery.
-
+- Fun fact: I like to draw in my leisure time. Visit my [Art Gallery](https://nahidferdous.com/art_gallery "Nahid's ART Gallery")
 
 <br>
 <h2 align="center">Skills</h2>
