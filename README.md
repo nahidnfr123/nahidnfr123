@@ -50,8 +50,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/> 
 
 </p>
-<h3 align="left">Design skills:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start; align-content: center; align-items: center;">
+<h3 align="center">Design skills:</h3>
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start; align-content: center; align-items: center;">
     <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="adobe-illustrator" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="adobe-xd" width="50" height="50"/> 
