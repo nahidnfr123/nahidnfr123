@@ -123,3 +123,5 @@
   <img align="center" hspace="10" vspace="10" align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical" />
 </a>
 </p>
+
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)
