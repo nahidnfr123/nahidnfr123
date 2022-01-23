@@ -22,7 +22,7 @@
 [comment]: <> (<hr style="margin-bottom: 30px; background-color: #4a5568">)
 
 - 🌱 I’m interested in Web Technologies.
-- 🌱 I’m currently learning Python(Django).
+- 🌱 I’m currently learning React.js.
 - 🌱 I have experience working on: PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS, Scss, CSS, HTML.
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous240@gmail.com.
