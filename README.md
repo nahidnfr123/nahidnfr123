@@ -89,7 +89,7 @@
     - Web Storm.
     - Pycharm.
     - VsCode.
-    - Jira Board, Trelo,
+    - Jira Board, Trello,
     - Slack
 
 </td>
