@@ -47,8 +47,7 @@
     <img align="middle" hspace="10" vspace="20" src="https://nuxtjs.org/logos/nuxt.svg" alt="vue" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+   
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
 </p>
