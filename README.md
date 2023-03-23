@@ -3,29 +3,13 @@
     👋 Hey there, I Love Coding. Do you?
 </h1>
 
-<p align="center">
-    <a href="https://komarev.com/ghpvc/?username=nahidnfr123&color=ff69b4&style=flat&label=VIEWS">
-    <img align="center" src="https://komarev.com/ghpvc/?username=nahidnfr123&color=ff69b4&style=flat&label=VIEWS" alt="License">
-    </a>
-</p>
+<br>
 <br>
 
-<img align="right" width="40%" style="max-width: 400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
-[comment]: <> (<div style="margin-bottom: 30px; color: dodgerblue;">)
-
-[comment]: <> (    <h3 align="center" style="line-height: 4px !important;">)
-
-[comment]: <> (        I am a Full-Stack Web Developer.)
-
-[comment]: <> (    </h3>)
-
-[comment]: <> (</div>)
-
-[comment]: <> (<hr style="margin-bottom: 30px; background-color: #4a5568">)
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🌱 I’m interested in Web Technologies.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning *__next.js__*.
 - 🌱 I have experience working on: PHP(Laravel), Python(Django), C#, JavaScript, JQuery, Vue.js, Nuxt.js, Ionic Framework, React.js, Next.js, Bootstrap, Tailwind CSS, Scss, CSS, HTML.
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous240@gmail.com.
@@ -51,7 +35,7 @@
 ### Development skills:
 
 <div>
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
+    <img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
     <img align="middle" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" height="50"/>
     <img align="middle" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
     <img align="middle" src="https://i.ibb.co/9rLZp8w/vuetifyjs-svgrepo-com.png" alt="vuetify" width="50" height="50"/>
