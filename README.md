@@ -105,13 +105,11 @@
     <td>
 
     - Github
-    - Linux (Ubuntu, Manjaro).
-    - Cpanel.
-    - Php Storm.
-    - Web Storm.
-    - Pycharm.
-    - VsCode.
-    - Jira Board, Trello,
+    - Linux (Ubuntu, Manjaro)
+    - Cpanel, Nginx, Apache, Netlify, Varcel
+    - Php Storm, Web Storm, Pycharm
+    - VsCode
+    - Jira Board, Trello, Click Up
     - Slack
 
 </td>
