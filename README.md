@@ -146,13 +146,12 @@
 
 # GitHub Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=nightowl&"></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=nahidnfr123&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nahidnfr123&theme=nightowl&hide_border=false)<br/>
 
-[//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidnfr123&show_icons=true&locale=en&layout=compact&theme=radical" alt="nahidnfr123" /></p>)
+## 🏆 GitHub Trophies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&locale=en&theme=nightowl" alt="nahidnfr123" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidnfr123&theme=nightowl" alt="nahidnfr123" /></p>
-
+![](https://github-profile-trophy.vercel.app/?username=nahidnfr123&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <img align="center" width="100%" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
