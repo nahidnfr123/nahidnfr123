@@ -144,11 +144,15 @@
   </tr>
 </table>
 
+<br>
+
 ## GitHub Status
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api?username=nahidnfr123&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nahidnfr123&theme=nightowl&hide_border=false)<br/>
+
+<br>
 
 ## 🏆 GitHub Trophies
 
