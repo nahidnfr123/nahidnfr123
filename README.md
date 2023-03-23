@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://komarev.com/ghpvc/?username=nahidnfr123&color=ff69b4&style=flat&label=VIEWS">
-    <img align="center" hspace="10" vspace="10" src="https://komarev.com/ghpvc/?username=nahidnfr123&color=ff69b4&style=flat&label=VIEWS" alt="License">
+    <img align="center" hspace="10" vspace="20" src="https://komarev.com/ghpvc/?username=nahidnfr123&color=ff69b4&style=flat&label=VIEWS" alt="License">
     </a>
 </p>
 
@@ -34,14 +34,18 @@
 
 <h2>GitHub Stats</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical">
-  <img align="center" hspace="10" vspace="10" style="max-width: 320px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical&#41;]&#50;https://github.com/anuraghazra/github-readme-stats&#41;">
+
+[//]: # (<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical">)
+
+[//]: # (  <img align="center" hspace="10" vspace="20" style="max-width: 320px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />)
+
+[//]: # (</a>)
 <div>
-<img align="center" hspace="10" vspace="10" style="max-height: 160px" src="https://github-readme-streak-stats.herokuapp.com?user=nahidnfr123&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
+<img align="center" hspace="10" vspace="20" src="https://github-readme-streak-stats.herokuapp.com?user=nahidnfr123&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
 </div>
 <a href="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical">
-  <img align="center" hspace="10" vspace="10" align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical" />
+  <img align="center" hspace="10" vspace="20" align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical" />
 </a>
 </div>
 
@@ -50,23 +54,23 @@
 <h2 align="center">Skills</h2>
 <h3 align="center">Development skills:</h3>
 <div align="center">
-    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" height="50"/>
-    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/9rLZp8w/vuetifyjs-svgrepo-com.png" alt="vuetify" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/KF7Yq9Y/javascript.png" alt="javascript" height="50" style="background: white; padding: 2px; border-radius: 4px"/>
-    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="60" height="50" style="background: white; padding: 2px; border-radius: 4px"/>
-    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/9rLZp8w/vuetifyjs-svgrepo-com.png" alt="vuetify" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/KF7Yq9Y/javascript.png" alt="javascript" height="50" style="background: white; padding: 2px; border-radius: 4px"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="60" height="50" style="background: white; padding: 2px; border-radius: 4px"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
 <div align="center">    
-    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/Tv1hTPX/css.png" alt="css3" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/LRGrxXz/HTML.png" alt="html5" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/Tv1hTPX/css.png" alt="css3" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/LRGrxXz/HTML.png" alt="html5" width="50" height="50"/>
 </div>
 <div align="center">
-    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
 </div>
 <br/>
 
@@ -123,14 +127,3 @@
 </table>
 
 <br>
-<h2 align="center">Git Status</h2>
-
-[comment]: <> ([![Top Langs]&#50;https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical&#41;]&#50;https://github.com/anuraghazra/github-readme-stats&#41;)
-
-[comment]: <> (![Nahid's GitHub stats]&#50;https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical&#41;)
-
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples | 1.99  |        739 |
-| Bananas      | 1.89  |          6 |
-
