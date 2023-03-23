@@ -26,39 +26,57 @@
 - 🌱 I have experience working on: PHP(Laravel), Python(Django), C#(.Net), JavaScript, JQuery, Vue.js, Nuxt.js, Ionic Framework, React.js, Next.js, Bootstrap, Tailwind CSS, Scss, CSS, HTML.
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous240@gmail.com.
-- 📫 Personal Portfolio Website: [nahidferdous.com](https://www.nahidferdous.com "Nahid Ferdous").
+- 📫 Personal Portfolio Website: [nahidferdous.com](https://www.nahidferdous.netlify.com "Nahid Ferdous").
 
 [comment]: <> (![myimg]&#40;https://cdn.worldvectorlogo.com/logos/html5.svg&#41;)
 
 [comment]: <> (![alt text]&#40;https://cdn.worldvectorlogo.com/logos/html5.svg ''&#41;{: height="50px" width="50px" style="float:left; padding-bottom:1000px" })
 
-<br>
+<h2>GitHub Stats</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical">
+  <img align="center" hspace="10" vspace="10" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />
+</a>
+<div>
+<img align="center" hspace="10" vspace="10" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=nahidnfr123&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
+</div>
+<a href="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical">
+  <img align="center" hspace="10" vspace="10" align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical" />
+</a>
+</div>
+
+
+<br/>
 <h2 align="center">Skills</h2>
 <h3 align="center">Development skills:</h3>
-<p align="center">
-    <img align="middle" hspace="10" vspace="0" src="https://i.ibb.co/LRGrxXz/HTML.png" alt="html5" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/Tv1hTPX/css.png" alt="css3" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
-</p>
-<br>
+<div align="center">
+    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" height="50"/>
+    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/9rLZp8w/vuetifyjs-svgrepo-com.png" alt="vuetify" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/KF7Yq9Y/javascript.png" alt="javascript" height="50" style="background: white; padding: 2px; border-radius: 4px"/>
+    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="60" height="50" style="background: white; padding: 2px; border-radius: 4px"/>
+    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
+<div align="center">    
+    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/Tv1hTPX/css.png" alt="css3" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="10" src="https://i.ibb.co/LRGrxXz/HTML.png" alt="html5" width="50" height="50"/>
+</div>
+<div align="center">
+    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
+</div>
+<br/>
 
 <h3 align="center">Design skills:</h3>
-<p align="center">
+<div align="center">
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/v1NR8tG/adobe-illustrator.png" alt="adobe-illustrator" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="adobe-xd" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="50" height="50"/>
-</p>
+</div>
 
 [comment]: <> (|Tools|Knowledge|)
 
@@ -111,15 +129,8 @@
 
 [comment]: <> (![Nahid's GitHub stats]&#50;https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical&#41;)
 
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical">
-  <img align="center" hspace="10" vspace="10" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />
-</a>
-</p>
+| Item         | Price | # In stock |
+|--------------|:-----:|-----------:|
+| Juicy Apples | 1.99  |        739 |
+| Bananas      | 1.89  |          6 |
 
-
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical">
-  <img align="center" hspace="10" vspace="10" align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical" />
-</a>
-</p>
