@@ -29,40 +29,30 @@
 
 # Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px">
-    <div style="min-width: 100px">
+## Development skills:
 
-### Development skills:
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://i.ibb.co/9rLZp8w/vuetifyjs-svgrepo-com.png" alt="vuetify" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://i.ibb.co/KF7Yq9Y/javascript.png" alt="javascript" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="60" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="vue" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="vue" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://i.ibb.co/Tv1hTPX/css.png" alt="css3" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://i.ibb.co/LRGrxXz/HTML.png" alt="html5" width="50" height="50"/>
 
-<div>
-    <img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
-    <img align="middle" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" height="50"/>
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" src="https://i.ibb.co/9rLZp8w/vuetifyjs-svgrepo-com.png" alt="vuetify" width="50" height="50"/>
-    <img align="middle" src="https://i.ibb.co/KF7Yq9Y/javascript.png" alt="javascript" height="50" style="background: white; padding: 2px; border-radius: 4px"/>
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="60" height="50" style="background: white; padding: 2px; border-radius: 4px"/>
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" src="https://i.ibb.co/Tv1hTPX/css.png" alt="css3" width="50" height="50"/>
-    <img align="middle" src="https://i.ibb.co/LRGrxXz/HTML.png" alt="html5" width="50" height="50"/>
-</div>
-<div>
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
-</div>
-</div>
-    <div style="min-width: 100px">
+## Design skills:
 
-### Design skills:
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://i.ibb.co/v1NR8tG/adobe-illustrator.png" alt="adobe-illustrator" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="adobe-xd" width="50" height="50"/>
+<img align="middle" style="padding-right: 10px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="50" height="50"/>
 
-<img align="middle" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="50" height="50"/>
-<img align="middle" src="https://i.ibb.co/v1NR8tG/adobe-illustrator.png" alt="adobe-illustrator" width="50" height="50"/>
-<img align="middle" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="adobe-xd" width="50" height="50"/>
-<img align="middle" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="50" height="50"/>
-</div>
-</div>
 
 [comment]: <> (|Tools|Knowledge|)
 
@@ -76,7 +66,7 @@
 
 <br>
 
-<h3 align="center">Other skills:</h3>
+## Other skills:
 
 <table align="center">
   <tr>
