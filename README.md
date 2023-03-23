@@ -36,8 +36,8 @@
 <h2 align="center">Skills</h2>
 <h3 align="center">Development skills:</h3>
 <p align="center">
-    <img align="middle" hspace="10" vspace="0" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="0" src="https://i.ibb.co/LRGrxXz/HTML.png" alt="html5" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/Tv1hTPX/css.png" alt="css3" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="vue" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="vue" width="50" height="50"/>
