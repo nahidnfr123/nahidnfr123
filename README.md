@@ -44,7 +44,7 @@
     <img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://ibb.co/n1JHgCC" alt="vue" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
