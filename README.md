@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" width="40%" style="max-width: 400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 [comment]: <> (<div style="margin-bottom: 30px; color: dodgerblue;">)
 
