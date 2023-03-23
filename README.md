@@ -52,7 +52,7 @@
 
 <br/>
 <h2 align="center">Skills</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 20px">
+<div style="display: flex; gap: 20px">
     <div style="min-width: 100px">
         <h3>Development skills:</h3>
         <div>
