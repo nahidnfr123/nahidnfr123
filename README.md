@@ -94,6 +94,8 @@
 
 <br>
 
+<h3 align="center">Other skills:</h3>
+
 <table align="center">
   <tr>
     <th>Tools : </th>
