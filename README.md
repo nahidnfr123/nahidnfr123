@@ -146,13 +146,13 @@
 
 # GitHub Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical&"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=nightowl&"></p>
 
 [//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidnfr123&show_icons=true&locale=en&layout=compact&theme=radical" alt="nahidnfr123" /></p>)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&locale=en&theme=radical" alt="nahidnfr123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&locale=en&theme=nightowl" alt="nahidnfr123" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidnfr123&theme=radical" alt="nahidnfr123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidnfr123&theme=nightowl" alt="nahidnfr123" /></p>
 
 
 <img align="center" width="100%" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
