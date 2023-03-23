@@ -44,17 +44,18 @@
     <img align="middle" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="vue" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/PWH7mQQ/nuxt-seeklogo-com.png" alt="nuxt js" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" style="max-height: 50px;"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="vue" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="vue" width="50" height="50"/>
 </p>
 <br>
+
 <h3 align="center">Design skills:</h3>
 <p align="center">
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="50" height="50"/>
-    <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="adobe-illustrator" width="50" height="50"/>
+    <img align="middle" hspace="10" vspace="20" src="https://i.ibb.co/v1NR8tG/adobe-illustrator.png" alt="adobe-illustrator" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="adobe-xd" width="50" height="50"/>
     <img align="middle" hspace="10" vspace="20" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="50" height="50"/>
 </p>
