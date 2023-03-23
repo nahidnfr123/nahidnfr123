@@ -29,14 +29,14 @@
 - 🌱 I have experience working on: PHP(Laravel), Python(Django), C#, JavaScript, JQuery, Vue.js, Nuxt.js, Ionic Framework, React.js, Next.js, Bootstrap, Tailwind CSS, Scss, CSS, HTML.
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 📫 How to reach me Gmail: nahidferdous240@gmail.com.
-- 📫 Personal Portfolio Website: [nahidferdous.com](https://www.nahidferdous.netlify.com "Nahid Ferdous").
+- 📫 Personal Portfolio Website: [nahidferdous.com](https://www.nahidferdous.netlify.app "Nahid Ferdous").
 
 <br/>
 <br/>
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.nahidferdous.netlify.com)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.nahidferdous.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahid-ferdous-892153215)
 
 [comment]: <> (![myimg]&#40;https://cdn.worldvectorlogo.com/logos/html5.svg&#41;)
