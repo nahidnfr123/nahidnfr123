@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
 - 🌱 I’m interested in Web Technologies.
 - 🌱 I’m currently learning *__next.js__*.
@@ -33,6 +33,7 @@
 <p align="left">
 <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="padding-right: 10px"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+</a>
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer" style="padding-right: 10px"> 
 <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
 </a> 
