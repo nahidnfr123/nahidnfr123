@@ -35,10 +35,10 @@
 <h2>GitHub Stats</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&show_icons=true&theme=radical">
-  <img align="center" hspace="10" vspace="10" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />
+  <img align="center" hspace="10" vspace="10" width="100%" style="max-width: 320px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />
 </a>
 <div>
-<img align="center" hspace="10" vspace="10" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=nahidnfr123&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
+<img align="center" hspace="10" vspace="10" width="100%" style="max-width: 320px" src="https://github-readme-streak-stats.herokuapp.com?user=nahidnfr123&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
 </div>
 <a href="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical">
   <img align="center" hspace="10" vspace="10" align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnfr123&show_icons=true&theme=radical" />
