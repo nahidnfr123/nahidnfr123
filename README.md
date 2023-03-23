@@ -29,9 +29,8 @@
 - 📫 Personal Portfolio Website: [nahidferdous.com](https://www.nahidferdous.netlify.com "Nahid Ferdous").
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.nahidferdous.netlify.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.nahidferdous.netlify.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahid-ferdous-892153215)
 
 [comment]: <> (![myimg]&#40;https://cdn.worldvectorlogo.com/logos/html5.svg&#41;)
 
