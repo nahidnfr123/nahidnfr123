@@ -148,9 +148,9 @@
 
 ## GitHub Status
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api?username=nahidnfr123&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nahidnfr123&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=nahidnfr123&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nahidnfr123&theme=synthwave&hide_border=true)<br/>
 
 <br>
 
