@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Nahid%20Ferdous&fontSize=80&animation=fadeIn&fontAlignY=38&desc=I%20am%20a%20Passionate%20Full-Stack%20Web%20Developer.&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nahid%20Ferdous&fontSize=80&animation=fadeIn&fontAlignY=38&desc=I%20am%20a%20Passionate%20Full-Stack%20Web%20Developer.&descAlignY=51&descAlign=62)
 
 <h1 align="center">
     👋 Hey there, I Love Coding. Do you?
