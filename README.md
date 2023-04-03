@@ -21,7 +21,7 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.nahidferdous.netlify.app)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nahidferdous.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahid-ferdous-892153215)
 
 [comment]: <> (![myimg]&#40;https://cdn.worldvectorlogo.com/logos/html5.svg&#41;)
