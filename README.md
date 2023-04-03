@@ -161,6 +161,3 @@
 
 <img align="center" width="100%" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
-[![Follow Mohamed El-Qassas GitHub](https://ionicabizau.github.io/github-profile-languages/api.html?nahidnfr123)](https://github.com/melqassas/)
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nahidnfr123" frameborder="0"></iframe>
